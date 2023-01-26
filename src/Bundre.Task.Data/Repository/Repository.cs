@@ -15,44 +15,53 @@ namespace Bundre.Tasks.Data.Repository
         protected readonly TaskContext Db;
         protected readonly DbSet<TEntity> DbSet;
 
-        public Task Create(TEntity entity)
+        protected Repository(TaskContext db)
         {
-            throw new NotImplementedException();
+            Db = db;
+            DbSet = db.Set<TEntity>();
+        }
+
+        public async Task<IEnumerable<TEntity>> SearchGeneric(Expression<Func<TEntity, bool>> predicate)
+        {
+            return await DbSet.AsNoTracking().Where(predicate).ToListAsync();
+        }
+
+        public virtual async Task<TEntity> GetById(Guid id)
+        {
+            return await DbSet.FindAsync(id);
+        }
+        public virtual async Task<List<TEntity>> GetAll()
+        {
+           return await DbSet.ToListAsync();    
+        }
+
+        public virtual async Task Create(TEntity entity)
+        {
+            DbSet.Add(entity);
+            await SaveChanges();
+        }
+
+        public async Task UpdateEntity(TEntity entity)
+        {
+            DbSet.Update(entity);
+            await SaveChanges();
+        }
+
+        public async Task RemoveEntity(Guid id)
+        {
+            DbSet.Remove(new TEntity { Id = id });
+            await SaveChanges();
+        }
+
+        public async Task<int> SaveChanges()
+        {
+            return await Db.SaveChangesAsync(); 
         }
 
         public void Dispose()
         {
-            throw new NotImplementedException();
-        }
+            Db?.Dispose();
 
-        public Task<List<TEntity>> GetAll()
-        {
-            throw new NotImplementedException();
-        }
-
-        public Task<TEntity> GetById(Guid id)
-        {
-            throw new NotImplementedException();
-        }
-
-        public Task Remove(Guid id)
-        {
-            throw new NotImplementedException();
-        }
-
-        public Task<int> SaveChanges()
-        {
-            throw new NotImplementedException();
-        }
-
-        public Task<IEnumerable<TEntity>> SearchGeneric(Expression<Func<TEntity, bool>> predicate)
-        {
-            throw new NotImplementedException();
-        }
-
-        public Task Update(TEntity entity)
-        {
-            throw new NotImplementedException();
         }
     }
 }
