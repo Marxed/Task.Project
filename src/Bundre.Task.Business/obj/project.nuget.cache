@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "P2SF2gtk+2MtopPx/xYKJTtjM8W8EJciUkgcbWC7xnE+NsZ6Vh/96KTLJHuEGLAUqCJbO1YW/cGTvUJUkAwuNQ==",
+  "dgSpecHash": "X9mdFTCN/zLlMfVMl7ySKI4gEya2BUsAgMzOM3TVjxXvjfJr/L/cKdy2ofhcLHILgT+16jtwkfSPB9d1Y/1A1w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\marxe\\source\\repos\\Bundre.Project.App\\Bundre.Project\\src\\Bundre.Task.Business\\Bundre.Task.Business.csproj",
+  "projectFilePath": "C:\\Users\\marxe\\source\\repos\\Bundre.Project.App\\Task.Project\\src\\Bundre.Task.Business\\Bundre.Tasks.Business.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

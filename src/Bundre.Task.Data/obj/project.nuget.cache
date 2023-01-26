@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "VCc2lxJLkAqkV7suPl5mdsxoKnbpGT4a9ByzrGWV4/TLX4JAuKv+Zlv7CH32QNBtMbJUG13tJKXAZfKFdFjjzA==",
+  "dgSpecHash": "0ZREu+STHLCiAkRqBnKI2X9BF1lyvEafqd2mk7rRwpm3KMeACJOvRxfdINBBETvvZaOYi/74pN5IYKqsY2ZMOA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\marxe\\source\\repos\\Bundre.Project.App\\Bundre.Project\\src\\Bundre.Task.Data\\Bundre.Task.Data.csproj",
+  "projectFilePath": "C:\\Users\\marxe\\source\\repos\\Bundre.Project.App\\Task.Project\\src\\Bundre.Task.Data\\Bundre.Tasks.Data.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\marxe\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\marxe\\.nuget\\packages\\microsoft.data.sqlclient\\2.1.4\\microsoft.data.sqlclient.2.1.4.nupkg.sha512",

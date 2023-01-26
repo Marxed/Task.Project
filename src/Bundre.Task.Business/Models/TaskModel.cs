@@ -6,7 +6,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Bundre.Task.Business.Models
+namespace Bundre.Tasks.Business.Models
 {
     public class TaskModel: Entity
     {
@@ -22,4 +22,3 @@ namespace Bundre.Task.Business.Models
         public IEnumerable<TaskUserModel> TaskUserModel { get; set; }    
     }
 }
-// Server = localhost; Database = master; Trusted_Connection = True;

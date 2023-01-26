@@ -2,9 +2,8 @@
 
   <PropertyGroup>
     <TargetFramework>net6.0</TargetFramework>
-    <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
-    <UserSecretsId>aspnet-Bundre.Task.App-a2d8f72c-085a-4d2a-9ed0-bd0e38bdfa40</UserSecretsId>
+    <UserSecretsId>aspnet-Bundre.Tasks.App-a2d8f72c-085a-4d2a-9ed0-bd0e38bdfa40</UserSecretsId>
   </PropertyGroup>
 
   <ItemGroup>

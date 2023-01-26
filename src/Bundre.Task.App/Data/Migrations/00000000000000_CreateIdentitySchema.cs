@@ -2,7 +2,7 @@
 using Microsoft.EntityFrameworkCore.Migrations;
 using System;
 
-namespace Bundre.Task.App.Data.Migrations
+namespace Bundre.Tasks.App.Data.Migrations
 {
     public partial class CreateIdentitySchema : Migration
     {

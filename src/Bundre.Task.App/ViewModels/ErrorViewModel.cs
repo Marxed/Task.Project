@@ -1,4 +1,4 @@
-namespace Bundre.Task.App.Models
+namespace Bundre.Tasks.App.Models
 {
     public class ErrorViewModel
     {

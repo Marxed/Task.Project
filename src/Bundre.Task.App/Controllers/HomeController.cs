@@ -1,8 +1,8 @@
-﻿using Bundre.Task.App.Models;
+﻿using Bundre.Tasks.App.Models;
 using Microsoft.AspNetCore.Mvc;
 using System.Diagnostics;
 
-namespace Bundre.Task.App.Controllers
+namespace Bundre.Tasks.App.Controllers
 {
     public class HomeController : Controller
     {

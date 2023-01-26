@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\marxe\\source\\repos\\Bundre.Project.App\\Bundre.Project\\src\\Bundre.Task.Business\\Bundre.Task.Business.csproj",
-      "projectName": "Bundre.Task.Business",
-      "projectPath": "C:\\Users\\marxe\\source\\repos\\Bundre.Project.App\\Bundre.Project\\src\\Bundre.Task.Business\\Bundre.Task.Business.csproj",
+      "projectUniqueName": "C:\\Users\\marxe\\source\\repos\\Bundre.Project.App\\Task.Project\\src\\Bundre.Task.Business\\Bundre.Tasks.Business.csproj",
+      "projectName": "Bundre.Tasks.Business",
+      "projectPath": "C:\\Users\\marxe\\source\\repos\\Bundre.Project.App\\Task.Project\\src\\Bundre.Task.Business\\Bundre.Tasks.Business.csproj",
       "packagesPath": "C:\\Users\\marxe\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\marxe\\source\\repos\\Bundre.Project.App\\Bundre.Project\\src\\Bundre.Task.Business\\obj\\",
+      "outputPath": "C:\\Users\\marxe\\source\\repos\\Bundre.Project.App\\Task.Project\\src\\Bundre.Task.Business\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\marxe\\AppData\\Roaming\\NuGet\\NuGet.Config",

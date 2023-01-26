@@ -1,4 +1,4 @@
-﻿using Bundre.Task.Business.Models;
+﻿using Bundre.Tasks.Business.Models;
 using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
@@ -6,7 +6,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Bundre.Task.Data.Context
+namespace Bundre.Tasks.Data.Context
 {
     public class TaskContext: DbContext
     {

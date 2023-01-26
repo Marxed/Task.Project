@@ -4,13 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Bundre.Tasks.Business.Models
+namespace Bundre.Tasks.Business.Interfaces
 {
-    public enum Status
+    internal class Class1
     {
-        PENDING,
-        COMPLETED,
-        PROGRESS,
-        CANCELLED
     }
 }

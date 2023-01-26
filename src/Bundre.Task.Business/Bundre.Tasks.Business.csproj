@@ -6,7 +6,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Interfaces\" />
     <Folder Include="Validations\" />
     <Folder Include="Services\" />
     <Folder Include="Notifications\" />

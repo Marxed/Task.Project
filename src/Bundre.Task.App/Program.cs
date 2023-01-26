@@ -1,4 +1,4 @@
-using Bundre.Task.App.Data;
+using Bundre.Tasks.App.Data;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 

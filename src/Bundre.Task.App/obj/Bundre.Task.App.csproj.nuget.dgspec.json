@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\marxe\\source\\repos\\Bundre.Project.App\\Bundre.Project\\src\\Bundre.Task.App\\Bundre.Task.App.csproj": {}
+    "C:\\Users\\marxe\\source\\repos\\Bundre.Project.App\\Task.Project\\src\\Bundre.Task.App\\Bundre.Task.App.csproj": {}
   },
   "projects": {
-    "C:\\Users\\marxe\\source\\repos\\Bundre.Project.App\\Bundre.Project\\src\\Bundre.Task.App\\Bundre.Task.App.csproj": {
+    "C:\\Users\\marxe\\source\\repos\\Bundre.Project.App\\Task.Project\\src\\Bundre.Task.App\\Bundre.Task.App.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\marxe\\source\\repos\\Bundre.Project.App\\Bundre.Project\\src\\Bundre.Task.App\\Bundre.Task.App.csproj",
+        "projectUniqueName": "C:\\Users\\marxe\\source\\repos\\Bundre.Project.App\\Task.Project\\src\\Bundre.Task.App\\Bundre.Task.App.csproj",
         "projectName": "Bundre.Task.App",
-        "projectPath": "C:\\Users\\marxe\\source\\repos\\Bundre.Project.App\\Bundre.Project\\src\\Bundre.Task.App\\Bundre.Task.App.csproj",
+        "projectPath": "C:\\Users\\marxe\\source\\repos\\Bundre.Project.App\\Task.Project\\src\\Bundre.Task.App\\Bundre.Task.App.csproj",
         "packagesPath": "C:\\Users\\marxe\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\marxe\\source\\repos\\Bundre.Project.App\\Bundre.Project\\src\\Bundre.Task.App\\obj\\",
+        "outputPath": "C:\\Users\\marxe\\source\\repos\\Bundre.Project.App\\Task.Project\\src\\Bundre.Task.App\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\marxe\\AppData\\Roaming\\NuGet\\NuGet.Config",

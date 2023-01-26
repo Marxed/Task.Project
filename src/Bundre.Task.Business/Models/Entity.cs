@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Bundre.Task.Business.Models
+namespace Bundre.Tasks.Business.Models
 {
     public abstract class Entity
     {

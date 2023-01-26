@@ -1,7 +1,7 @@
 ﻿using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
 
-namespace Bundre.Task.App.Data
+namespace Bundre.Tasks.App.Data
 {
     public class ApplicationDbContext : IdentityDbContext
     {
