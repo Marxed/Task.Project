@@ -1,0 +1,12 @@
+C:\Users\marxe\source\repos\Bundre.Project.App\Bundre.Project\src\Bundre.Task.Business\bin\Debug\net6.0\Bundre.Task.Business.deps.json
+C:\Users\marxe\source\repos\Bundre.Project.App\Bundre.Project\src\Bundre.Task.Business\bin\Debug\net6.0\Bundre.Task.Business.dll
+C:\Users\marxe\source\repos\Bundre.Project.App\Bundre.Project\src\Bundre.Task.Business\bin\Debug\net6.0\Bundre.Task.Business.pdb
+C:\Users\marxe\source\repos\Bundre.Project.App\Bundre.Project\src\Bundre.Task.Business\obj\Debug\net6.0\Bundre.Task.Business.csproj.AssemblyReference.cache
+C:\Users\marxe\source\repos\Bundre.Project.App\Bundre.Project\src\Bundre.Task.Business\obj\Debug\net6.0\Bundre.Task.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marxe\source\repos\Bundre.Project.App\Bundre.Project\src\Bundre.Task.Business\obj\Debug\net6.0\Bundre.Task.Business.AssemblyInfoInputs.cache
+C:\Users\marxe\source\repos\Bundre.Project.App\Bundre.Project\src\Bundre.Task.Business\obj\Debug\net6.0\Bundre.Task.Business.AssemblyInfo.cs
+C:\Users\marxe\source\repos\Bundre.Project.App\Bundre.Project\src\Bundre.Task.Business\obj\Debug\net6.0\Bundre.Task.Business.csproj.CoreCompileInputs.cache
+C:\Users\marxe\source\repos\Bundre.Project.App\Bundre.Project\src\Bundre.Task.Business\obj\Debug\net6.0\Bundre.Task.Business.dll
+C:\Users\marxe\source\repos\Bundre.Project.App\Bundre.Project\src\Bundre.Task.Business\obj\Debug\net6.0\refint\Bundre.Task.Business.dll
+C:\Users\marxe\source\repos\Bundre.Project.App\Bundre.Project\src\Bundre.Task.Business\obj\Debug\net6.0\Bundre.Task.Business.pdb
+C:\Users\marxe\source\repos\Bundre.Project.App\Bundre.Project\src\Bundre.Task.Business\obj\Debug\net6.0\ref\Bundre.Task.Business.dll
